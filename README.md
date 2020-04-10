@@ -11,4 +11,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Website Contents
 
+Here are the files in the website
+
 1. index.html
